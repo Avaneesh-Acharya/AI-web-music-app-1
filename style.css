@@ -25,3 +25,14 @@ body{
 #speed{
     font-size: 15px;
 }
+.play_button, .stop_button{
+    width:135px;
+    font-size:50px;
+    margin-top:10px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+canvas{
+border: 5px solid whitesmoke;
+border-radius: 100px;
+box-shadow: 20px 20px 20px gray;
+}
